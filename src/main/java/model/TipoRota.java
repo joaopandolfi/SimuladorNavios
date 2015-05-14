@@ -1,0 +1,7 @@
+package model;
+
+public enum TipoRota {
+	AGUAS_LITORANEAS,
+	AGUAS_PROFUNDAS,
+	AGUAS_TRANSCONTINENTAIS;
+}
